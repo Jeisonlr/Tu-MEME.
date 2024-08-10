@@ -47,6 +47,12 @@ body {
     transform: rotate(360deg);
   }
 }
+h1{
+  color: #61dafb;
+  font-family: Tahoma, sans-serif;
+  font-size: 38px;
+  text-shadow:0px 0px 12px;
+}
 
 /* Estilos generales */
 
