@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Jeisonlr/Tu-MEME..git/static/css/main.24633754.css",
-    "main.js": "/Jeisonlr/Tu-MEME..git/static/js/main.fbd15d6d.js",
-    "static/js/453.4b779ea2.chunk.js": "/Jeisonlr/Tu-MEME..git/static/js/453.4b779ea2.chunk.js",
-    "index.html": "/Jeisonlr/Tu-MEME..git/index.html",
-    "main.24633754.css.map": "/Jeisonlr/Tu-MEME..git/static/css/main.24633754.css.map",
-    "main.fbd15d6d.js.map": "/Jeisonlr/Tu-MEME..git/static/js/main.fbd15d6d.js.map",
-    "453.4b779ea2.chunk.js.map": "/Jeisonlr/Tu-MEME..git/static/js/453.4b779ea2.chunk.js.map"
+    "main.css": "/Tu-MEME./static/css/main.24633754.css",
+    "main.js": "/Tu-MEME./static/js/main.271228d0.js",
+    "static/js/453.4b779ea2.chunk.js": "/Tu-MEME./static/js/453.4b779ea2.chunk.js",
+    "index.html": "/Tu-MEME./index.html",
+    "main.24633754.css.map": "/Tu-MEME./static/css/main.24633754.css.map",
+    "main.271228d0.js.map": "/Tu-MEME./static/js/main.271228d0.js.map",
+    "453.4b779ea2.chunk.js.map": "/Tu-MEME./static/js/453.4b779ea2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.24633754.css",
-    "static/js/main.fbd15d6d.js"
+    "static/js/main.271228d0.js"
   ]
 }
