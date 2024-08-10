@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "//jeisonlr.github.io/Tu-MEME./static/css/main.f373c5df.css",
-    "main.js": "//jeisonlr.github.io/Tu-MEME./static/js/main.37f81cd1.js",
-    "static/js/453.4b779ea2.chunk.js": "//jeisonlr.github.io/Tu-MEME./static/js/453.4b779ea2.chunk.js",
-    "index.html": "//jeisonlr.github.io/Tu-MEME./index.html",
-    "main.f373c5df.css.map": "//jeisonlr.github.io/Tu-MEME./static/css/main.f373c5df.css.map",
-    "main.37f81cd1.js.map": "//jeisonlr.github.io/Tu-MEME./static/js/main.37f81cd1.js.map",
-    "453.4b779ea2.chunk.js.map": "//jeisonlr.github.io/Tu-MEME./static/js/453.4b779ea2.chunk.js.map"
+    "main.css": "/static/css/main.24633754.css",
+    "main.js": "/static/js/main.a0b3ae1e.js",
+    "static/js/453.4b779ea2.chunk.js": "/static/js/453.4b779ea2.chunk.js",
+    "index.html": "/index.html",
+    "main.24633754.css.map": "/static/css/main.24633754.css.map",
+    "main.a0b3ae1e.js.map": "/static/js/main.a0b3ae1e.js.map",
+    "453.4b779ea2.chunk.js.map": "/static/js/453.4b779ea2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f373c5df.css",
-    "static/js/main.37f81cd1.js"
+    "static/css/main.24633754.css",
+    "static/js/main.a0b3ae1e.js"
   ]
 }
