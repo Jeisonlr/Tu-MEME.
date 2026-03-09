@@ -41,6 +41,7 @@ function App() {
           <option value="matrix">Matrix</option>
           <option value="history">history chanel</option>
           <option value="philosoraptor">filosoraptor</option>
+          <option value="comilon">comilon</option>
         </select> <br/>
 
         <input onChange={onChangeLinea1} type="text" placeholder='linea 1'/> 
